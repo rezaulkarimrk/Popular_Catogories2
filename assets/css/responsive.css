@@ -1,0 +1,20 @@
+/* Mediam layout */
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+
+}
+
+/* Tablet layout */
+@media only screen and (min-width: 768px) and (max-width: 991px){
+}
+
+/*width Mobile layout */
+@media only screen and (max-width: 767px){
+
+
+}
+
+/* Mobile layout */
+@media only screen and (min-width: 480px) and (max-width: 767px){
+
+
+}
